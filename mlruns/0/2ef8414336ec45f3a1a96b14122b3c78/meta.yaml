@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLflow/test/mlruns/0/2ef8414336ec45f3a1a96b14122b3c78/artifacts
+end_time: 1716440143649
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ef8414336ec45f3a1a96b14122b3c78
+run_name: luminous-eel-691
+run_uuid: 2ef8414336ec45f3a1a96b14122b3c78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716440137220
+status: 3
+tags: []
+user_id: Karma

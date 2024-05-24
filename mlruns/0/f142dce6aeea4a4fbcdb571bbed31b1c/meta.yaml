@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLflow/test/mlruns/0/f142dce6aeea4a4fbcdb571bbed31b1c/artifacts
+end_time: 1716463798862
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f142dce6aeea4a4fbcdb571bbed31b1c
+run_name: handsome-moose-181
+run_uuid: f142dce6aeea4a4fbcdb571bbed31b1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716463791273
+status: 3
+tags: []
+user_id: Karma

@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLflow/test/mlruns/0/7673d6f4740f4c07a60eb0c6bd83bcf5/artifacts
+end_time: 1716440123376
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7673d6f4740f4c07a60eb0c6bd83bcf5
+run_name: sedate-sloth-696
+run_uuid: 7673d6f4740f4c07a60eb0c6bd83bcf5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716440116449
+status: 3
+tags: []
+user_id: Karma

@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLflow/test/mlruns/0/43fc440849ff4246929cbf134dda41b0/artifacts
+end_time: 1716437376266
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 43fc440849ff4246929cbf134dda41b0
+run_name: mysterious-deer-685
+run_uuid: 43fc440849ff4246929cbf134dda41b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716437355162
+status: 3
+tags: []
+user_id: Karma

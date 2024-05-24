@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLflow/test/mlruns/0/95060bd3a9704233a4e0da0daf440f02/artifacts
+end_time: 1716219446080
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95060bd3a9704233a4e0da0daf440f02
+run_name: unequaled-stork-515
+run_uuid: 95060bd3a9704233a4e0da0daf440f02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716219438370
+status: 3
+tags: []
+user_id: Karma

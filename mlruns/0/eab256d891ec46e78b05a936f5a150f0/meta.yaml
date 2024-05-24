@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLflow/test/mlruns/0/eab256d891ec46e78b05a936f5a150f0/artifacts
+end_time: 1716440468100
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eab256d891ec46e78b05a936f5a150f0
+run_name: upbeat-grouse-820
+run_uuid: eab256d891ec46e78b05a936f5a150f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716440457249
+status: 3
+tags: []
+user_id: Karma
